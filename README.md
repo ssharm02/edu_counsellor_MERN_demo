@@ -2,7 +2,7 @@
 
 Final Capstone project @ Sheridan.  Features React, Redux, Node.js, Express.js, Mongoose, automated data scrapping via Python
 
-<img src="eduLogo.png?raw=true" width="600px">
+<img src="eduLogo.png" width="600px">
 <img src="eduDash.png?raw=true" width="600px">
 <img src="eduGrades.png?raw=true" width="600px">
 <img src="eduGradeReport.png?raw=true" width="600px">
