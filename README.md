@@ -1,6 +1,6 @@
 # edu_counsellor_demo
 
-Final Capstone project @ Sheridan.  Features React, Redux, Node.js, Express.js, Mongoose, automated data scrapping via Python
+Final Capstone project @ Sheridan.  Features React, Redux, Node.js, Express.js, Mongoose, automated data scrapping via Python.  Developed in under 3 months (October - December 2018) by Sarthak Sharma, Jeanice Nguyen, and Navpreet Kaur using agile methodologies/practices.
 
 <img src="eduLogo.PNG?raw=true" width="1000px">
 
