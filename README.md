@@ -2,17 +2,17 @@
 
 Final Capstone project @ Sheridan.  Features React, Redux, Node.js, Express.js, Mongoose, automated data scrapping via Python
 
-<img src="eduLogo.PNG?raw=true" width="900px">
+<img src="eduLogo.PNG?raw=true" width="1000px">
 
-<img src="eduDash.PNG?raw=true" width="600px">
+<img src="eduDash.PNG?raw=true" width="1000px">
 Landing Dashboad
-<img src="eduGrades.PNG?raw=true" width="600px">
+<img src="eduGrades.PNG?raw=true" width="1000px">
 Student Grades
-<img src="eduGradeReport.PNG?raw=true" width="600px">
+<img src="eduGradeReport.PNG?raw=true" width="1000px">
 Student Grades Progress
-<img src="EduStudents.PNG?raw=true" width="600px">
+<img src="EduStudents.PNG?raw=true" width="1000px">
 Student Profile
-<img src="eduMessage.PNG?raw=true" width="600px">
+<img src="eduMessage.PNG?raw=true" width="1000px">
 Student Message Board
 
 <img src="edu1.gif?raw=true" width="600px">
